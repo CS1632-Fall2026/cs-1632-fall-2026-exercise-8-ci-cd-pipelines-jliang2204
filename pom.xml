@@ -11,7 +11,7 @@
 
   <name>cs1632-cicd-junit</name>
   <description>An exercise demonstrating CI/CD through github actions.  It uses JUnit for unit testing.</description>
-  <url>https://github.com/wonsunahn/CS1632_CICD_JUnit</url>
+  <url>https://github.com/CS1632-Fall2026/cs-1632-fall-2026-exercise-8-ci-cd-pipelines-jliang2204</url>
 
   <licenses>
     <license>
